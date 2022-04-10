@@ -1,0 +1,48 @@
+git clone https://github.com/aleksandars7/SI_2022_lab1_125021.git
+git branch -m master
+git status
+git add .
+git status
+git commit -m "Add 5 items to te shopping list"
+git status
+git add .
+git status
+git commit -m "Add quantities to the items"
+git push origin master
+git branch branch1
+git branch branch2
+git checkout branch1
+git status
+git add .
+git commit -m "Change quantity of item #5"
+git push origin branch1
+git checkout master
+git status
+git add .
+git commit -m "Change quantity of item #2"
+git checkout master
+git merge branch1
+git push origin master
+git status
+git commit -m "commit 
+merge with branch1"
+git push origin master
+git status
+git checkout branch2
+git status
+git add .
+git commit -m "Modify item #4"
+git add .
+git commit -m "Modify item #4 and add item #6"
+git push origin branch2
+git checkout master
+git merge branch2
+git status
+git add .
+git commit -m "commit merge branch2"
+git push origin master
+git status
+git add .
+git commit -m "Add docs"
+git push origin master
+git status

@@ -3,4 +3,5 @@ Orange x 2
 Pear x 5
 Lemon x 7
 Peach x 1
+Mango x 2
 

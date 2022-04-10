@@ -1,6 +1,6 @@
-Apple
-Orange
-Pear
-Kiwi
-Peach
+Apple x 2
+Orange x 4
+Pear x 5
+Kiwi x 7
+Peach x 1
 

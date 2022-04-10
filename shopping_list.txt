@@ -1,5 +1,6 @@
 Apple x 2
 <<<<<<< HEAD
+<<<<<<< HEAD
 Orange x 2
 =======
 Orange x 4
@@ -7,4 +8,11 @@ Orange x 4
 Pear x 5
 Kiwi x 7
 Peach x 1
+=======
+Orange x 2
+Pear x 5
+Lemon x 7
+Peach x 1
+Mango x 2
+>>>>>>> branch2
 
